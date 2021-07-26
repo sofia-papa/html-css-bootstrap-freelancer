@@ -1,0 +1,11 @@
+.col-12{
+    background-color: aqua;
+}
+
+[class^="col-"]{
+    background-color:rgb(76, 150, 121);
+    border: 1px solid black;
+    height: 290px;
+    line-height: 290px;
+}
+
