@@ -9,6 +9,14 @@
 .square-box{
     background-color: grey;
     border: 3px solid red;
-    height: 200px;
+    height: 350px;
     margin-bottom: 30px;
+}
+
+section{
+    margin-bottom: 100px;
+}
+
+#first-part-footer{
+    background-color: gray;
 }
