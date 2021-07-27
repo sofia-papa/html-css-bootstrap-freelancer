@@ -1,22 +1,61 @@
 .start-bootstrap{
-    background-color: green;
+    background-color: rgb(102, 196, 180);
 }
 
 .start-bootstrap-box{
-    height: 300px;
+    height: 350;
 }
 
 .square-box{
-    background-color: grey;
-    border: 3px solid red;
-    height: 350px;
+    height: 260px;
     margin-bottom: 30px;
 }
 
 section{
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 
 #first-part-footer{
     background-color: gray;
+}
+
+#avatar{
+    background-image: url("../img/avatar.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 160px;
+}
+
+#cabin{
+    background-image: url("../img/cabin.png");
+    background-size: cover;
+}
+
+#cake{
+    background-image: url("../img/cake.png");
+    background-size: cover;
+}
+
+#circus{
+    background-image: url("../img/circus.png");
+    background-size: cover;
+}
+
+#game{
+    background-image: url("../img/game.png");
+    background-size: cover;
+}
+
+#safe{
+    background-image: url("../img/safe.png");
+    background-size: cover;
+}
+
+#submarine{
+    background-image: url("../img/submarine.png");
+    background-size: cover;
+}
+
+.line{
+    
 }
