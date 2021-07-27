@@ -1,11 +1,14 @@
-.col-12{
-    background-color: aqua;
+.start-bootstrap{
+    background-color: green;
 }
 
-[class^="col-"]{
-    background-color:rgb(76, 150, 121);
-    border: 1px solid black;
-    height: 290px;
-    line-height: 290px;
+.start-bootstrap-box{
+    height: 300px;
 }
 
+.square-box{
+    background-color: grey;
+    border: 3px solid red;
+    height: 200px;
+    margin-bottom: 30px;
+}
